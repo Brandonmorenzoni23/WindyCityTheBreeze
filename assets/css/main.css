@@ -1216,14 +1216,14 @@ input, select, textarea {
 		}
 
 /* Logo */
-#logo img {
+#logo{
 	
 }
 
 
 /* Latest Video */
 
-iframe {
+#mini{
 	top: 725px;
 	left: 2100px;
 	z-index: 2018;
@@ -1234,6 +1234,13 @@ iframe {
 	pointer-events:
 	
 }
+
+#LOB {
+	border: solid 2px rgb(61,194,252);
+	
+	margin-left: 10%;
+}
+
 
 /* Section/Article */
 
