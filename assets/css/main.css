@@ -1431,7 +1431,7 @@ iframe {
 		}
 
 		.image.left {
-			float: left;
+			float:right;
 			margin: 0 2em 2em 0;
 		}
 
