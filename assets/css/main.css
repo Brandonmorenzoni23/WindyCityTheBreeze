@@ -1224,7 +1224,7 @@ input, select, textarea {
 /* Latest Video */
 
 #mini{
-	top: 725px;
+	top: 500px;
 	left: 2100px;
 	z-index: 2018;
 	position: sticky;
